@@ -1,21 +1,17 @@
-### Hi there! This is my humble portfolio, I'm Karell. Check out my projects here!
+## Hi there! This is my humble portfolio, I'm Karell. Check out my projects here!
+
+>For those who don't know me, **I'm a Developer**, **Programmer** & **Ui Designer**.<br>
+>I work as a freelancer and make commissions mainly on [**Roblox**](https://roblox.com).<br>
+
+#### If you want to know where else I work or what I currently study, check out my [**web portfolio**]().
+<img src="https://github-readme-stats.vercel.app/api?username=kareu-uu&theme=synthwave&show_icons=true&include_all_commits=true&bg_color=121212&border_color=3e0069&border_radius=8&icon_color=7400c4&text_color=f5f5f5&include_all_commits=true" />
+
 #
-For those who don't know me, **I'm a Developer**, **Programmer** & **Ui Designer**.<br>
-I work as a freelancer and make commissions mainly on [**Roblox**](https://roblox.com).<br>
 
-### If you want to know where else I work or what I currently study, check out my [web portfolio]().
-[![Kareu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kareu-uu&theme=synthwave)](https://github.com/kareu-uu)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kareu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  -
-  <img align="center" alt="Kareu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  -
-  <img align="center" alt="Kareu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  -
-  <img align="center" alt="Kareu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  -
-  <img align="center" alt="Kareu-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
+<div>
+  <a href="https://www.youtube.com/channel/UCKj-AP1YEybqzRW1E3-v4sw" target="_blank"><img src="https://img.shields.io/badge/Kareu-5a00a3?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/Kareu_uu-5a00a3?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  <a href = "https://twitter.com/KareuRBX"><img src="https://img.shields.io/badge/-KareuRbx-5a00a3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/kareu.rbx" target="_blank"><img src="https://img.shields.io/badge/-Kareu.rbx-5a00a3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kareudeveloper@gmail.com"><img src="https://img.shields.io/badge/-Contact-5a00a3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-*secret: i like cats too much*
