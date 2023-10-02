@@ -1,9 +1,10 @@
 ## Hi there! This is my humble portfolio, I'm Karell. Check out my projects here!
 
->For those who don't know me, **I'm a Developer**, **Programmer** & **Ui Designer**.<br>
->I work as a freelancer and make commissions mainly on [**Roblox**](https://roblox.com).<br>
+> For those who don't know me, **I'm a Developer**, **Programmer** & **Ui Designer**.<br>
+> I work as a freelancer and make commissions mainly on [**Roblox**](https://roblox.com).<br>
 
 #### If you want to know where else I work or what I currently study, check out my [**web portfolio**]().
+
 <img src="https://github-readme-stats.vercel.app/api?username=kareu-uu&theme=synthwave&show_icons=true&include_all_commits=true&bg_color=121212&border_color=3e0069&border_radius=8&icon_color=7400c4&text_color=f5f5f5&include_all_commits=true" />
 
 #
