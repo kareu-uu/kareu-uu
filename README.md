@@ -1,4 +1,4 @@
-<a href="https://kareu-uu.carrd.co" target="_blank"><img src="./assets/Banner-v2.png"></a>
+<a href="https://kareu-uu.carrd.co" target="_blank"><img src="./assets/Banner-v3.png"></a>
 # 👋🏻 Hi there!
 > Welcome to my official profile here on Github, if you don't know me or what I do, here is the perfect place where you will find my releases and some projects currently being developed.
 
@@ -34,11 +34,11 @@ And that's why this profile exists, **my name is Karell Lutkmeier and I'm a soft
 # 💬 Links & Social Medias
 
 <div>
-  <a href="https://www.youtube.com/channel/UCKj-AP1YEybqzRW1E3-v4sw" target="_blank"><img src="https://img.shields.io/badge/kareu-5a00a3?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Kareu__uu-5a00a3?style=for-the-badge&logo=discord&logoColor=white">
-  <a href = "https://twitter.com/KareuRBX" target="_blank"><img src="https://img.shields.io/badge/-KareuRbx-5a00a3?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://instagram.com/kareu.rbx" target="_blank"><img src="https://img.shields.io/badge/-Kareu.rbx-5a00a3?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:kareudeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Contact-5a00a3?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCKj-AP1YEybqzRW1E3-v4sw" target="_blank"><img src="https://img.shields.io/badge/Announcements-5a00a3?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/kareu__uu-5a00a3?style=for-the-badge&logo=discord&logoColor=white">
+  <a href = "https://twitter.com/karell_dev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-5a00a3?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.instagram.com/karell.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-5a00a3?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:kareudeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Enterprise-5a00a3?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-> [**💻 My Portfolio**](https://kareu-uu.carrd.co) - [**✍🏻 My Releases**](https://kareu-uu-releases.carrd.co)
+> [**💻 Portfolio**](https://kareu-uu.carrd.co) - [**✍🏻 Releases**](https://kareu-uu-releases.carrd.co)
