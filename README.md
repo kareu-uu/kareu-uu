@@ -3,10 +3,10 @@
 > Welcome to my official profile here on Github, if you don't know me or what I do, here is the perfect place where you will find my releases and some projects currently being developed.
 
 # Sections
-- [📝 Summary](#📝-summary)
-- [👨🏻‍💻 Who I Am](#👨🏻‍💻-what-is-this-profile-for)
-- [💎 Stats](#💎-my-stats)
-- [💬 Contact](#💬-links--social-medias)
+- [📝 Summary](#-summary)
+- [👨🏻‍💻 Who I Am](#-what-is-this-profile-for)
+- [💎 Stats](#-my-stats)
+- [💬 Contact](#-links--social-medias)
 
 # 📝 Summary
 Find on this profile **all my projects** that have been launched and made official, also **follow some ongoing projects in real time**, find **source codes** for some systems **and much more**.
